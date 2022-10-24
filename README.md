@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismail</h1>
-<h3 align="center">I am an excited and open to learn developer and junior entrepreneur from Turkey (or maybe Georgia). I have worked in many projects during college and early work life. Furthermore, I could define myself as agile, chatty, curious, thoughtful, researcher and bookworm.</h3>
+<h3 align="center">Welcome</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailslmnv&label=Profile%20views&color=0e75b6&style=flat" alt="ismailslmnv" /> </p>
 
